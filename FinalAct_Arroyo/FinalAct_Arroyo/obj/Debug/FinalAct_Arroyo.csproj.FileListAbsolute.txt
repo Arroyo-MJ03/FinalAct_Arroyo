@@ -1,0 +1,12 @@
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\bin\Debug\FinalAct_Arroyo.exe.config
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\bin\Debug\FinalAct_Arroyo.exe
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\bin\Debug\FinalAct_Arroyo.pdb
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.csproj.AssemblyReference.cache
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.Dashboard.resources
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.Register_Form.resources
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.SignIn_Form.resources
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.Properties.Resources.resources
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.csproj.GenerateResource.cache
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.csproj.CoreCompileInputs.cache
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.exe
+C:\Users\amarc\source\repos\FinalAct_Arroyo\FinalAct_Arroyo\obj\Debug\FinalAct_Arroyo.pdb
